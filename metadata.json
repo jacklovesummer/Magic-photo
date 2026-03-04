@@ -1,0 +1,7 @@
+{
+  "name": "Magic Morph Photo Booth",
+  "description": "A high-fidelity AI photo booth that transforms your identity using Gemini 2.5 Flash Image. Experience time travel, famous paintings, crazy identities, and superhero morphs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
